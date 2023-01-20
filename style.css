@@ -1,0 +1,41 @@
+*{
+    background-color:#282283;
+}
+h1{
+    color: gold;
+}
+input[type=email],input[type=password],input[type=submit]{
+    border: goldenrod 1px solid;
+    background-color: #2f2fa1;
+    color:#f64c71
+}
+input.value{
+    color:#f64c71 ;
+}
+input[type=Email]{
+    left: 2099px;
+    margin-left: 180px;
+}
+input[type=password]{
+margin-left: 180px;
+}
+    input[type=submit]{
+        margin-left: 240px;
+    }
+h1{
+        margin-left: 600px;
+        margin-top: 100px;
+        font-size: 70px;
+}
+input[type=email]{
+        margin-left: 650px;
+        font-size: 30px;
+}
+input[type=password]{
+        margin-left: 650px;
+        font-size: 30px;
+}
+input[type=submit]{
+    margin-left: 780px;
+        font-size: 30px;
+}
